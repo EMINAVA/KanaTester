@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "KanaTester",
@@ -24,7 +24,7 @@
       "Microsoft.JSInterop.dll": "sha256-ypmcmc4hDIawKcjT2JSgawd0JcluIqqITNdJcvz+gy4=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-421zIgHVXw1yI4x0B5ZA\/fW+I63Upuw5ZddGvWp4FSw=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "KanaTester.dll": "sha256-NNIBe0NV4uhe7SS\/aghW5Ba3agsQoV5TFXLcJ0PHogU=",
+      "KanaTester.dll": "sha256-VPWg+dvLE7UjX6jIDVkVWhQLK2W4+ridLsR92gs++Gg=",
       "System.Collections.Concurrent.dll": "sha256-vQfofKvIxTLhvbXaorurVn3miv9vVQ3j65P33aaSCvM=",
       "System.Collections.Immutable.dll": "sha256-VkLGXCctXqC552tUEDndBZ5fgrRiMk7JRkDQHJSUaAk=",
       "System.Collections.NonGeneric.dll": "sha256-hBebAb9lQMdKxDvelVzRKB\/5C1dNzuvBn+z8FexDtt4=",
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.dll": "sha256-DV5uvNkGja00dqXskwZxYak23o0NuvXxYA3H1R38JkI=",
       "System.Text.Json.dll": "sha256-8UDPBwtkzEdy+Er6Tv4Mns8F6UBvQYGvO7A1IRlf7Os=",
       "System.Text.RegularExpressions.dll": "sha256-zVWDTREfC1sLERi3mFz+3r2e17ICedLgK6x\/3ef5+K0=",
-      "System.Private.CoreLib.dll": "sha256-lX2WQdcJsAZpExjsu7EEJhNipuUIg5vrqizWr4k44I8="
+      "System.Private.CoreLib.dll": "sha256-7npk0yGmcD\/PBFJ7\/58fXtIdt\/uIHWFVK2zci9IeoWA="
     },
     "lazyAssembly": null,
     "pdb": null,

@@ -53,7 +53,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-+GrFd2spwyrNWqLfIH0+nfQp8mOUezL+C4T8phJUrvo=",
+      "hash": "sha256-vqZSrx9BNTkyNkbJ0JwZ5ErKc0VOnLd8OkHDFfqD6S4=",
       "url": "css\/style.css"
     },
     {
@@ -79,6 +79,30 @@
     {
       "hash": "sha256-Ey1V1fGZ\/Zgq9YuJZzZM6sPDfGbMfrN+6ajocWJ1pXk=",
       "url": "sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-EYDDlT9FWxc3LUKnjp6YHHBdpeQHscnQ6JF6ZCYjk6U=",
+      "url": "_framework\/Publish\/web.config"
+    },
+    {
+      "hash": "sha256-rugdDT3jpIb0ukorkZNHYQdZdOnRhYpnRgiNiiCGToA=",
+      "url": "_framework\/Publish\/wwwroot\/categories.json"
+    },
+    {
+      "hash": "sha256-KYdXcAzMiHdhYRLh\/EPwyTCMnXGAC8+znIa1XkDVLpo=",
+      "url": "_framework\/Publish\/wwwroot\/default-symbols.json"
+    },
+    {
+      "hash": "sha256-bTs5lNcii27B\/GJ0MNdiBzUxW6OH+rL2fSDUcXjQuWg=",
+      "url": "_framework\/Publish\/wwwroot\/manifest.json"
+    },
+    {
+      "hash": "sha256-Ey1V1fGZ\/Zgq9YuJZzZM6sPDfGbMfrN+6ajocWJ1pXk=",
+      "url": "_framework\/Publish\/wwwroot\/sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-E30e87Z++SlZvLXZM\/JBglvD4Nr9SlveGEvIn\/Zi\/zA=",
+      "url": "_framework\/Publish\/wwwroot\/_framework\/blazor.boot.json"
     },
     {
       "hash": "sha256-2OdnPsDgJyoSaSlvebGMRd2MxC+4UIqparqVrQZAFDE=",
@@ -181,7 +205,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-10+OIzmE1j+l7HxlXca5R7wRL2IdJ57rKWi8hA+x48g=",
+      "hash": "sha256-VPWg+dvLE7UjX6jIDVkVWhQLK2W4+ridLsR92gs++Gg=",
       "url": "_framework\/KanaTester.dll"
     },
     {
@@ -277,11 +301,11 @@
       "url": "_framework\/System.Text.RegularExpressions.dll"
     },
     {
-      "hash": "sha256-lX2WQdcJsAZpExjsu7EEJhNipuUIg5vrqizWr4k44I8=",
+      "hash": "sha256-7npk0yGmcD\/PBFJ7\/58fXtIdt\/uIHWFVK2zci9IeoWA=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-6QSPTjni0omne\/FUMKNs8g9bupZdthLFavu6tQEDoxM=",
+      "hash": "sha256-BYGhnhpoc4LeOgpmNpGQSgwKGsbGVZtyIXwLOS8tz4g=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -289,5 +313,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "o7X1h72S"
+  "version": "H6lPbvEW"
 };
