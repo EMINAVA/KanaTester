@@ -1,0 +1,1856 @@
+[
+    {
+        "JapaneseSymbol": "あ",
+        "RomanizedSymbol": "a",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "い",
+        "RomanizedSymbol": "i",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "う",
+        "RomanizedSymbol": "u",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "え",
+        "RomanizedSymbol": "e",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "お",
+        "RomanizedSymbol": "o",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "か",
+        "RomanizedSymbol": "ka",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "き",
+        "RomanizedSymbol": "ki",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "く",
+        "RomanizedSymbol": "ku",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "け",
+        "RomanizedSymbol": "ke",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "こ",
+        "RomanizedSymbol": "ko",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "さ",
+        "RomanizedSymbol": "sa",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "し",
+        "RomanizedSymbol": "shi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "す",
+        "RomanizedSymbol": "su",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "せ",
+        "RomanizedSymbol": "se",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "そ",
+        "RomanizedSymbol": "so",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "た",
+        "RomanizedSymbol": "ta",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ち",
+        "RomanizedSymbol": "chi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "つ",
+        "RomanizedSymbol": "tsu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "て",
+        "RomanizedSymbol": "te",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "と",
+        "RomanizedSymbol": "to",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "な",
+        "RomanizedSymbol": "na",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "に",
+        "RomanizedSymbol": "ni",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぬ",
+        "RomanizedSymbol": "nu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ね",
+        "RomanizedSymbol": "ne",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "の",
+        "RomanizedSymbol": "no",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "は",
+        "RomanizedSymbol": "ha",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ひ",
+        "RomanizedSymbol": "hi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ふ",
+        "RomanizedSymbol": "fu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "へ",
+        "RomanizedSymbol": "he",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ほ",
+        "RomanizedSymbol": "ho",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ま",
+        "RomanizedSymbol": "ma",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "み",
+        "RomanizedSymbol": "mi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "む",
+        "RomanizedSymbol": "mu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "め",
+        "RomanizedSymbol": "me",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "も",
+        "RomanizedSymbol": "mo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "や",
+        "RomanizedSymbol": "ya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ゆ",
+        "RomanizedSymbol": "yu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "よ",
+        "RomanizedSymbol": "yo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ら",
+        "RomanizedSymbol": "ra",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "り",
+        "RomanizedSymbol": "ri",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "る",
+        "RomanizedSymbol": "ru",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "れ",
+        "RomanizedSymbol": "re",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ろ",
+        "RomanizedSymbol": "ro",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "わ",
+        "RomanizedSymbol": "wa",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "を",
+        "RomanizedSymbol": "wo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ん",
+        "RomanizedSymbol": "n",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "が",
+        "RomanizedSymbol": "ga",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぎ",
+        "RomanizedSymbol": "gi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぐ",
+        "RomanizedSymbol": "gu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "げ",
+        "RomanizedSymbol": "ge",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ご",
+        "RomanizedSymbol": "go",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ざ",
+        "RomanizedSymbol": "za",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "じ",
+        "RomanizedSymbol": "ji",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ず",
+        "RomanizedSymbol": "zu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぜ",
+        "RomanizedSymbol": "ze",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぞ",
+        "RomanizedSymbol": "zo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "だ",
+        "RomanizedSymbol": "da",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "づ",
+        "RomanizedSymbol": "zu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "で",
+        "RomanizedSymbol": "de",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ど",
+        "RomanizedSymbol": "do",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ば",
+        "RomanizedSymbol": "ba",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "び",
+        "RomanizedSymbol": "bi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぶ",
+        "RomanizedSymbol": "bu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "べ",
+        "RomanizedSymbol": "be",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぼ",
+        "RomanizedSymbol": "bo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぱ",
+        "RomanizedSymbol": "pa",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぴ",
+        "RomanizedSymbol": "pi",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぷ",
+        "RomanizedSymbol": "pu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぺ",
+        "RomanizedSymbol": "pe",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぽ",
+        "RomanizedSymbol": "po",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "きゃ",
+        "RomanizedSymbol": "kya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "きゅ",
+        "RomanizedSymbol": "kyu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "きょ",
+        "RomanizedSymbol": "kyo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "しゃ",
+        "RomanizedSymbol": "sha",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "しゅ",
+        "RomanizedSymbol": "shu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "しょ",
+        "RomanizedSymbol": "sho",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ちゃ",
+        "RomanizedSymbol": "cha",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ちゅ",
+        "RomanizedSymbol": "chu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ちょ",
+        "RomanizedSymbol": "cho",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "にゃ",
+        "RomanizedSymbol": "nya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "にゅ",
+        "RomanizedSymbol": "nyu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "にょ",
+        "RomanizedSymbol": "nyo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ひゃ",
+        "RomanizedSymbol": "hya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ひゅ",
+        "RomanizedSymbol": "hyu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ひょ",
+        "RomanizedSymbol": "hyo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "みゃ",
+        "RomanizedSymbol": "mya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "みゅ",
+        "RomanizedSymbol": "myu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "みょ",
+        "RomanizedSymbol": "myo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "りゃ",
+        "RomanizedSymbol": "rya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "りゅ",
+        "RomanizedSymbol": "ryu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "りょ",
+        "RomanizedSymbol": "ryo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぎゃ",
+        "RomanizedSymbol": "gya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぎゅ",
+        "RomanizedSymbol": "gyu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぎょ",
+        "RomanizedSymbol": "gyo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "じゃ",
+        "RomanizedSymbol": "ja",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "じゅ",
+        "RomanizedSymbol": "ju",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "じょ",
+        "RomanizedSymbol": "jo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "びゃ",
+        "RomanizedSymbol": "bya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "びゅ",
+        "RomanizedSymbol": "byu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "にょ",
+        "RomanizedSymbol": "byo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぴゃ",
+        "RomanizedSymbol": "pya",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぴゅ",
+        "RomanizedSymbol": "pyu",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    },
+    {
+        "JapaneseSymbol": "ぴょ",
+        "RomanizedSymbol": "pyo",
+        "Attempts": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "TimesGuessedRight": 0,
+        "TimesGuessedWrong": 0
+    }
+]
